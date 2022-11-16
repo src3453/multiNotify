@@ -1,2 +1,2 @@
 # multiNotify
-### A universal library for easy access to notify service
+**A universal library for easy access to notify service**
