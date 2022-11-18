@@ -2,6 +2,6 @@
 **A universal library for easy access to notify service**
 
 ## Features
-- multiNotify.discordWebHook
+### multiNotify.discordWebHook
 <!-- FEATURE DESCRIPTION HERE -->
 `discordWebHook.send()`
